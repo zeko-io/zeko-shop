@@ -1,0 +1,1069 @@
+# Copyright (C) 2026 Zeko Team
+# This file is distributed under the GNU General Public License v2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: zeko-shop 1.5.0\n"
+"Report-Msgid-Bugs-To: https://zeko.io\n"
+"POT-Creation-Date: 2026-09-25 08:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: Zeko Team\n"
+"X-Domain: zeko-shop\n"
+"X-Generator: zeko make-pot\n"
+
+#. translators: 1: buyer name, 2: session date, 3: start time
+#: includes/class-zeko-shop-sessions.php:292
+#, php-format
+msgid "%1$s booked a paid session with you for %2$s at %3$s."
+msgstr ""
+
+#. translators: 1: member name, 2: program title
+#: includes/class-zeko-shop-programs.php:215
+#, php-format
+msgid "%1$s joined your program \"%2$s\"."
+msgstr ""
+
+#. translators: 1: buyer name, 2: order total
+#: includes/class-zeko-shop-emails.php:109
+#, php-format
+msgid "%1$s placed a new order for %2$s."
+msgstr ""
+
+#. translators: 1: number of loyalty points. 2: loyalty tier label
+#: templates/shop-checkout.php:131
+#, php-format
+msgid "%1$s points · %2$s"
+msgstr ""
+
+#. translators: %d: number of units in stock
+#: templates/shop-catalog.php:61 templates/shop-product.php:67
+#, php-format
+msgid "%d in stock"
+msgstr ""
+
+#. translators: %d: number of items
+#: includes/class-zeko-shop-frontend.php:174
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: product title
+#: includes/class-zeko-shop-checkout.php:53
+#, php-format
+msgid "%s is no longer available."
+msgstr ""
+
+#. translators: 1: session type label, 2: mentor display name
+#: includes/class-zeko-shop-sessions.php:131
+#, php-format
+msgid "1-on-1 %1$s Session with %2$s"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:110
+msgid "A user"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:118
+#: includes/admin/class-zeko-shop-admin.php:143
+#: includes/admin/class-zeko-shop-admin.php:178
+#: includes/admin/class-zeko-shop-admin.php:200
+#: includes/admin/class-zeko-shop-admin.php:217
+#: includes/admin/class-zeko-shop-admin.php:279
+#: includes/admin/class-zeko-shop-admin.php:305
+#: includes/class-zeko-shop-frontend.php:261
+#: includes/class-zeko-shop-frontend.php:311
+msgid "Access denied."
+msgstr ""
+
+#: templates/admin/orders.php:48 templates/admin/products.php:120
+msgid "Actions"
+msgstr ""
+
+#: templates/admin/products.php:91 templates/my-products.php:80
+msgid "Active"
+msgstr ""
+
+#: templates/order-receipt.php:152
+msgid "Actor"
+msgstr ""
+
+#: templates/admin/products.php:35 templates/my-products.php:26
+msgid "Add New Product"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:349
+msgid "Add at least one product line."
+msgstr ""
+
+#: templates/admin/new-order.php:64
+msgid "Add line"
+msgstr ""
+
+#: templates/shop-catalog.php:82 templates/shop-product.php:90
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:91
+#: includes/class-zeko-shop-frontend.php:1002
+#: includes/class-zeko-shop-rest.php:289
+msgid "Added to cart."
+msgstr ""
+
+#: templates/admin/products.php:110
+msgid "All Products"
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:62
+msgid "All items in your cart must use the same currency."
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:145
+msgid "An order is already being processed. Please try again in a moment."
+msgstr ""
+
+#: templates/shop-checkout.php:100
+msgid "Apply"
+msgstr ""
+
+#: includes/class-zeko-shop-sessions.php:99
+msgid "Audio"
+msgstr ""
+
+#: templates/order-not-found.php:15 templates/order-receipt.php:137
+msgid "Back to My Orders"
+msgstr ""
+
+#: templates/shop-product.php:19
+msgid "Back to Shop"
+msgstr ""
+
+#: templates/shop-checkout.php:136
+msgid "Back to cart"
+msgstr ""
+
+#: templates/order-receipt.php:49
+msgid "Bill To:"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:179 templates/shop-cart.php:25
+msgid "Browse products"
+msgstr ""
+
+#: templates/shop-catalog.php:19
+msgid "Browse products and pay instantly with your Zeko wallet."
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:138
+msgid "Buyer"
+msgstr ""
+
+#: templates/admin/products.php:105 templates/my-products.php:86
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:172
+#: includes/class-zeko-shop-frontend.php:343
+#: includes/class-zeko-shop-frontend.php:868 templates/mini-cart.php:17
+#: zeko-shop.php:141
+msgid "Cart"
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:124
+#: includes/class-zeko-shop-frontend.php:1003
+msgid "Cart updated."
+msgstr ""
+
+#: templates/admin/new-order.php:70
+msgid "Charge the customer's wallet for this order."
+msgstr ""
+
+#: includes/class-zeko-shop-sessions.php:100
+msgid "Chat"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:176 templates/mini-cart.php:43
+#: templates/shop-checkout.php:46 zeko-shop.php:145
+msgid "Checkout"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:159 templates/admin/orders.php:16
+#: templates/order-receipt.php:30 templates/shop-orders.php:18
+msgid "Completed"
+msgstr ""
+
+#: templates/admin/new-order.php:76
+msgid "Create Order"
+msgstr ""
+
+#: templates/admin/products.php:119
+msgid "Created"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:162
+#: includes/privacy/class-zeko-shop-privacy.php:247
+msgid "Created at"
+msgstr ""
+
+#: templates/admin/products.php:59
+msgid "Currency"
+msgstr ""
+
+#: templates/admin/new-order.php:23 templates/admin/orders.php:40
+msgid "Customer"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:190 templates/admin/orders.php:41
+#: templates/order-receipt.php:149 templates/shop-orders.php:38
+msgid "Date"
+msgstr ""
+
+#: templates/admin/products.php:140 templates/my-products.php:116
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/products.php:139 templates/my-products.php:115
+msgid "Delete this product?"
+msgstr ""
+
+#: templates/admin/products.php:49 templates/my-products.php:40
+msgid "Description"
+msgstr ""
+
+#: templates/admin/products.php:73 templates/my-products.php:69
+msgid "Digital File URL"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:212
+#: includes/privacy/class-zeko-shop-privacy.php:146
+#: templates/admin/orders.php:43 templates/order-receipt.php:93
+#: templates/shop-checkout.php:94
+msgid "Discount"
+msgstr ""
+
+#: templates/order-receipt.php:75
+msgid "Download"
+msgstr ""
+
+#. translators: %s: downloadable item title
+#: templates/shop-orders.php:69
+#, php-format
+msgid "Download %s"
+msgstr ""
+
+#: templates/order-receipt.php:133
+msgid "Download Invoice"
+msgstr ""
+
+#: templates/order-receipt.php:61
+msgid "Downloads"
+msgstr ""
+
+#: templates/admin/products.php:136 templates/my-products.php:113
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/products.php:35 templates/my-products.php:26
+msgid "Edit Product"
+msgstr ""
+
+#: includes/class-zeko-shop-programs.php:197
+msgid "Enrolled in program"
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:227
+#: includes/class-zeko-shop-frontend.php:1007
+msgid "Enter a promo code."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:161 templates/admin/orders.php:18
+#: templates/order-receipt.php:32 templates/shop-orders.php:20
+msgid "Failed"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:154
+msgid "Fee"
+msgstr ""
+
+#: templates/admin/products.php:114
+msgid "ID"
+msgstr ""
+
+#: templates/admin/products.php:69 templates/my-products.php:65
+msgid "Image URL"
+msgstr ""
+
+#: templates/admin/products.php:96 templates/my-products.php:81
+msgid "Inactive"
+msgstr ""
+
+#: templates/shop-catalog.php:47 templates/shop-product.php:58
+msgid "Instant delivery"
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:192
+msgid "Insufficient wallet balance to complete this order."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:1006
+msgid "Insufficient wallet balance."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:301
+msgid "Invoice could not be rendered."
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:179
+msgid "Item"
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:146
+#: includes/class-zeko-shop-frontend.php:1004
+#: includes/class-zeko-shop-rest.php:306
+msgid "Item removed from cart."
+msgstr ""
+
+#: templates/admin/new-order.php:37
+msgid "Items"
+msgstr ""
+
+#: templates/shop-catalog.php:75 templates/shop-product.php:83
+msgid "Log in to Buy"
+msgstr ""
+
+#: templates/shop-checkout.php:130
+msgid "Loyalty"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:141
+msgid "Manage orders"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:66
+msgid "Marketplace — shop from the community"
+msgstr ""
+
+#: templates/shop-product.php:55
+msgid "Mentor Session"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:239
+msgid "Message"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:253
+#: includes/class-zeko-shop-emails.php:326
+#: includes/class-zeko-shop-frontend.php:347 templates/shop-orders.php:25
+#: zeko-shop.php:149
+msgid "My Orders"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:120
+msgid "My Products"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:117
+msgid "My Shop"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:64
+#: includes/admin/class-zeko-shop-admin.php:65 templates/admin/new-order.php:15
+msgid "New Order"
+msgstr ""
+
+#. translators: %s: order number
+#: includes/class-zeko-shop-emails.php:104
+#, php-format
+msgid "New order %s"
+msgstr ""
+
+#: includes/class-zeko-shop-sessions.php:289
+msgid "New paid session"
+msgstr ""
+
+#: includes/class-zeko-shop-programs.php:212
+msgid "New program member"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:134
+msgid "New shop order"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:684
+msgid "No downloadable file is attached to this item."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:296
+msgid "No invoice is available for this order."
+msgstr ""
+
+#: templates/admin/orders.php:53
+msgid "No orders yet."
+msgstr ""
+
+#: templates/shop-catalog.php:23
+msgid "No products available right now."
+msgstr ""
+
+#: templates/admin/products.php:125
+msgid "No products yet."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:85 includes/class-zeko-shop-ajax.php:117
+#: includes/class-zeko-shop-rest.php:282
+msgid "Not enough stock."
+msgstr ""
+
+#: templates/order-receipt.php:151
+msgid "Note"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:334
+msgid "One of the selected products does not have enough stock."
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:331
+msgid "One of the selected products is not available."
+msgstr ""
+
+#. translators: 1: remaining stock. 2: product title
+#: includes/class-zeko-shop-checkout.php:68
+#, php-format
+msgid "Only %1$d left in stock for %2$s."
+msgstr ""
+
+#: templates/my-products.php:71
+msgid "Optional. Buyers get a download link after purchase."
+msgstr ""
+
+#: templates/admin/products.php:76
+msgid ""
+"Optional. When set, buyers get a download link on the receipt after "
+"purchase. Leave empty for physical products or mentor programs."
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:137
+#: includes/class-zeko-shop-frontend.php:189 templates/admin/orders.php:39
+#: templates/shop-orders.php:37
+msgid "Order"
+msgstr ""
+
+#. translators: %s: order number
+#: templates/admin/orders.php:29
+#, php-format
+msgid "Order #%s created."
+msgstr ""
+
+#. translators: %s: order number
+#: includes/class-zeko-shop-checkout.php:275
+#, php-format
+msgid "Order %s confirmed"
+msgstr ""
+
+#. translators: %s: order number
+#: includes/class-zeko-shop-emails.php:324
+#, php-format
+msgid ""
+"Order %s has been refunded. The amount has been credited back to your wallet."
+msgstr ""
+
+#. translators: %s: order number
+#: includes/admin/class-zeko-shop-admin.php:246
+#: includes/admin/class-zeko-shop-admin.php:257
+#, php-format
+msgid "Order %s refunded"
+msgstr ""
+
+#. translators: %s: order number
+#: includes/class-zeko-shop-emails.php:242
+#, php-format
+msgid "Order %s was placed successfully."
+msgstr ""
+
+#: templates/order-receipt.php:40
+msgid "Order Receipt"
+msgstr ""
+
+#: templates/order-receipt.php:145
+msgid "Order Timeline"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:225
+#: includes/class-zeko-shop-ajax.php:287
+#: includes/class-zeko-shop-frontend.php:658
+#: includes/class-zeko-shop-rest.php:366
+msgid "Order not found."
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:134
+msgid "Order number"
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:201 includes/class-zeko-shop-rest.php:331
+msgid "Order placed successfully."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:1005
+msgid "Order placed!"
+msgstr ""
+
+#: templates/admin/orders.php:25
+msgid "Order refunded."
+msgstr ""
+
+#: templates/shop-catalog.php:61 templates/shop-product.php:67
+msgid "Out of stock"
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:222
+msgid "Payment failed. Please try again."
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:182
+msgid "Payments are unavailable right now."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:158 templates/admin/orders.php:15
+#: templates/order-receipt.php:29 templates/shop-orders.php:17
+msgid "Pending"
+msgstr ""
+
+#: templates/shop-checkout.php:142
+msgid "Place Order &amp; Pay"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:220 templates/order-receipt.php:105
+#: templates/shop-checkout.php:114
+msgid "Platform fee"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:313
+msgid "Please choose a customer."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:74
+msgid "Please log in to add items to your cart."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:190
+#: includes/class-zeko-shop-frontend.php:783
+msgid "Please log in to check out."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:584
+msgid "Please log in to view your order."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:848
+msgid "Please log in to view your orders."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:108 includes/class-zeko-shop-ajax.php:140
+#: includes/class-zeko-shop-ajax.php:161 includes/class-zeko-shop-ajax.php:222
+#: includes/class-zeko-shop-ajax.php:265
+msgid "Please log in."
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:246 templates/admin/products.php:55
+#: templates/admin/products.php:116 templates/my-products.php:56
+#: templates/my-products.php:99 templates/order-receipt.php:58
+#: templates/shop-cart.php:33 templates/shop-checkout.php:63
+msgid "Price"
+msgstr ""
+
+#: templates/shop-cart.php:79
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:244 templates/admin/new-order.php:41
+#: templates/order-receipt.php:57 templates/shop-cart.php:32
+#: templates/shop-checkout.php:62
+msgid "Product"
+msgstr ""
+
+#: templates/admin/products.php:32 templates/my-products.php:23
+msgid "Product deleted."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:79 includes/class-zeko-shop-ajax.php:114
+#: includes/class-zeko-shop-rest.php:277
+msgid "Product not available."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:626
+#: includes/class-zeko-shop-rest.php:223
+msgid "Product not found."
+msgstr ""
+
+#: templates/admin/products.php:28 templates/my-products.php:20
+msgid "Product saved."
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:160
+#: includes/class-zeko-shop-frontend.php:280
+msgid "Product title is required."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:339
+msgid "Products"
+msgstr ""
+
+#: templates/shop-catalog.php:44 templates/shop-product.php:52
+msgid "Program"
+msgstr ""
+
+#: includes/class-zeko-shop-programs.php:278
+msgid "Program purchase refunded"
+msgstr ""
+
+#. translators: %s: promo code
+#: templates/shop-checkout.php:90
+#, php-format
+msgid "Promo %s applied"
+msgstr ""
+
+#: templates/shop-checkout.php:99
+msgid "Promo code"
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:251
+msgid "Promo code applied."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:242
+msgid "Promo code is not valid."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:270
+msgid "Promo code removed."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:236
+msgid "Promo codes are unavailable right now."
+msgstr ""
+
+#. translators: %s: order number
+#: includes/class-zeko-shop-checkout.php:295
+#, php-format
+msgid "Purchased order %s"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:245 templates/admin/new-order.php:42
+#: templates/order-receipt.php:59 templates/shop-cart.php:34
+#: templates/shop-checkout.php:64
+msgid "Qty"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:255
+msgid "Questions about this order? Reply to this email and our team will help."
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:328
+msgid ""
+"Questions about this refund? Reply to this email and our team will help."
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:243
+msgid "Read"
+msgstr ""
+
+#: templates/admin/orders.php:78
+msgid "Refund"
+msgstr ""
+
+#: templates/admin/orders.php:33
+msgid "Refund failed. Check the transaction and try again."
+msgstr ""
+
+#: templates/admin/orders.php:77
+msgid ""
+"Refund this order? The amount will be credited back to the customer's wallet."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:160 templates/admin/orders.php:17
+#: templates/order-receipt.php:31 templates/shop-orders.php:19
+msgid "Refunded"
+msgstr ""
+
+#: templates/admin/new-order.php:59 templates/shop-cart.php:60
+#: templates/shop-checkout.php:91
+msgid "Remove"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:1001
+msgid "Remove this item from your cart?"
+msgstr ""
+
+#: templates/admin/products.php:103 templates/my-products.php:84
+msgid "Save Product"
+msgstr ""
+
+#: includes/class-zeko-shop-sessions.php:274
+msgid "Session payment confirmed"
+msgstr ""
+
+#: includes/class-zeko-shop-sessions.php:355
+msgid "Session payment refunded"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:334 includes/class-zeko-shop.php:132
+#: templates/shop-catalog.php:18 templates/shop-product.php:36
+#: zeko-shop.php:137
+msgid "Shop"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:55
+#: includes/admin/class-zeko-shop-admin.php:56 templates/admin/orders.php:22
+msgid "Shop Orders"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:46
+#: includes/admin/class-zeko-shop-admin.php:47 templates/admin/products.php:25
+msgid "Shop Products"
+msgstr ""
+
+#: templates/shop-catalog.php:73 templates/shop-product.php:81
+msgid "Sold out"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:1008
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: templates/shop-orders.php:31
+msgid "Start shopping"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:192
+#: includes/privacy/class-zeko-shop-privacy.php:138
+#: templates/admin/orders.php:46 templates/admin/products.php:87
+#: templates/admin/products.php:118 templates/my-products.php:79
+#: templates/my-products.php:101 templates/shop-orders.php:40
+msgid "Status"
+msgstr ""
+
+#: templates/order-receipt.php:150
+msgid "Status Change"
+msgstr ""
+
+#: templates/admin/products.php:80 templates/admin/products.php:117
+#: templates/my-products.php:74 templates/my-products.php:100
+msgid "Stock"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:209
+#: includes/class-zeko-shop-emails.php:247
+#: includes/privacy/class-zeko-shop-privacy.php:142
+#: templates/admin/orders.php:42 templates/mini-cart.php:35
+#: templates/order-receipt.php:60 templates/order-receipt.php:88
+#: templates/shop-cart.php:35 templates/shop-cart.php:71
+#: templates/shop-checkout.php:65 templates/shop-checkout.php:83
+msgid "Subtotal"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:216
+#: includes/privacy/class-zeko-shop-privacy.php:150
+#: templates/admin/orders.php:44 templates/order-receipt.php:99
+#: templates/shop-checkout.php:107
+msgid "Tax"
+msgstr ""
+
+#. translators: %s: customer display name
+#: includes/class-zeko-shop-emails.php:240
+#, php-format
+msgid "Thank you for your order, %s!"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:356
+msgid "The order could not be created."
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:172
+msgid "The order could not be recorded. Please try again."
+msgstr ""
+
+#: templates/order-not-found.php:14
+msgid "This order could not be found."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:667
+msgid "This order is not completed, so downloads are not available yet."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:632
+msgid "This product is not available."
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:197
+msgid "Timeline"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:235
+#: templates/admin/products.php:45 templates/admin/products.php:115
+#: templates/my-products.php:36 templates/my-products.php:98
+msgid "Title"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:672
+msgid "Too many download requests. Please try again later."
+msgstr ""
+
+#: includes/class-zeko-shop-rest.php:320
+msgid "Too many requests. Please try again later."
+msgstr ""
+
+#: templates/shop-checkout.php:53
+msgid "Top up wallet"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:139
+#: includes/class-zeko-shop-emails.php:223
+#: includes/class-zeko-shop-frontend.php:191
+#: includes/privacy/class-zeko-shop-privacy.php:158
+#: templates/admin/orders.php:45 templates/order-receipt.php:110
+#: templates/shop-cart.php:75 templates/shop-checkout.php:120
+#: templates/shop-orders.php:39
+msgid "Total"
+msgstr ""
+
+#: templates/order-receipt.php:123
+msgid "Transaction"
+msgstr ""
+
+#: templates/admin/orders.php:47
+msgid "Tx"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:231
+msgid "Type"
+msgstr ""
+
+#: templates/admin/new-order.php:72
+msgid "Uncheck to record the order without a payment."
+msgstr ""
+
+#: templates/admin/products.php:132 templates/my-products.php:110
+msgid "Unlimited"
+msgstr ""
+
+#: templates/admin/products.php:83 templates/my-products.php:76
+msgid "Use -1 for unlimited (digital products)."
+msgstr ""
+
+#: includes/class-zeko-shop-sessions.php:98
+msgid "Video"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:208 templates/shop-orders.php:56
+msgid "View"
+msgstr ""
+
+#: templates/shop-product.php:92
+msgid "View Cart"
+msgstr ""
+
+#: templates/shop-catalog.php:70 templates/shop-product.php:78
+msgid "View Program"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:252
+msgid "View Receipt"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:215
+msgid "View all orders"
+msgstr ""
+
+#: templates/mini-cart.php:41
+msgid "View cart"
+msgstr ""
+
+#: templates/admin/orders.php:63
+msgid "View receipt"
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:70
+msgid "Visit site"
+msgstr ""
+
+#: templates/shop-checkout.php:124
+msgid "Wallet balance"
+msgstr ""
+
+#: includes/migrator/class-zeko-migrate-woo.php:67
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:287
+msgid "You can only edit your own products."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:292
+msgid "You do not have permission for this invoice."
+msgstr ""
+
+#: includes/class-zeko-shop-rest.php:371
+msgid "You do not have permission for this order."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:663
+msgid "You do not have permission to download this file."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:589
+msgid "You do not have permission to view this order."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:184 templates/shop-orders.php:30
+msgid "You have no orders yet."
+msgstr ""
+
+#: templates/my-products.php:93
+msgid "You have no products yet."
+msgstr ""
+
+#: templates/shop-cart.php:19
+msgid "Your Cart"
+msgstr ""
+
+#: templates/my-products.php:91
+msgid "Your Products"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:420
+msgid ""
+"Your Zeko Shop orders, order items, order timeline and shop notifications "
+"were removed."
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:42
+#: includes/class-zeko-shop-frontend.php:178
+#: includes/class-zeko-shop-frontend.php:788
+#: includes/class-zeko-shop-frontend.php:808 templates/mini-cart.php:22
+#: templates/shop-cart.php:24
+msgid "Your cart is empty."
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:234
+msgid "Your downloads"
+msgstr ""
+
+#. translators: 1: session date, 2: start time
+#: includes/class-zeko-shop-sessions.php:277
+#, php-format
+msgid ""
+"Your mentorship session on %1$s at %2$s is confirmed. Access the meeting "
+"link from the session page."
+msgstr ""
+
+#. translators: 1: session date, 2: start time
+#: includes/class-zeko-shop-sessions.php:358
+#, php-format
+msgid "Your mentorship session on %1$s at %2$s was refunded and cancelled."
+msgstr ""
+
+#: includes/class-zeko-shop-rest.php:326
+msgid "Your order could not be placed."
+msgstr ""
+
+#: includes/class-zeko-shop-ajax.php:196
+msgid "Your order could not be placed. Please try again."
+msgstr ""
+
+#. translators: %s: order total amount
+#: includes/class-zeko-shop-checkout.php:277
+#, php-format
+msgid "Your order of %s has been completed. View your receipt."
+msgstr ""
+
+#: includes/class-zeko-shop-emails.php:322
+msgid "Your order was refunded"
+msgstr ""
+
+#: includes/admin/class-zeko-shop-admin.php:247
+msgid "Your order was refunded. The amount was credited back to your wallet."
+msgstr ""
+
+#: includes/class-zeko-shop-checkout.php:134
+msgid "Your promo code is no longer valid. Please re-apply or remove it."
+msgstr ""
+
+#. translators: %s: program title
+#: includes/class-zeko-shop-programs.php:200
+#, php-format
+msgid ""
+"Your purchase of \"%s\" is complete. Access the program member area here."
+msgstr ""
+
+#. translators: %s: program title
+#: includes/class-zeko-shop-programs.php:281
+#, php-format
+msgid ""
+"Your purchase of \"%s\" was refunded, so your enrollment has been cancelled."
+msgstr ""
+
+#: templates/shop-checkout.php:51
+msgid ""
+"Your wallet balance is lower than the order total. Please top up your wallet "
+"before checking out."
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:522
+msgid "Zeko Love"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:512
+#: includes/class-zeko-shop-frontend.php:517
+msgid "Zeko Mentor"
+msgstr ""
+
+#: includes/class-zeko-shop-frontend.php:532
+msgid "Zeko Shop"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:43
+#: includes/privacy/class-zeko-shop-privacy.php:56
+msgid "Zeko Shop data"
+msgstr ""
+
+#: includes/class-zeko-shop.php:145
+msgid "Zeko Shop requires the Zeko Pay plugin to be installed and active."
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:227
+msgid "Zeko Shop — Notifications"
+msgstr ""
+
+#: includes/privacy/class-zeko-shop-privacy.php:205
+msgid "Zeko Shop — Orders"
+msgstr ""
+
+#. translators: 1: site name, 2: order number
+#: includes/class-zeko-shop-emails.php:126
+#, php-format
+msgid "[%1$s] New order %2$s"
+msgstr ""
+
+#. translators: 1: site name, 2: order number
+#: includes/class-zeko-shop-emails.php:314
+#, php-format
+msgid "[%1$s] Order %2$s refunded"
+msgstr ""
+
+#. translators: 1: site name, 2: order number
+#: includes/class-zeko-shop-emails.php:190
+#, php-format
+msgid "[%1$s] Order receipt %2$s"
+msgstr ""
+
+#: templates/admin/new-order.php:26
+msgid "— Select customer —"
+msgstr ""
+
+#: templates/admin/new-order.php:50
+msgid "— Select product —"
+msgstr ""
+
