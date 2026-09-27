@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zeko-shop 1.5.0\n"
 "Report-Msgid-Bugs-To: https://zeko.io\n"
-"POT-Creation-Date: 2026-09-25 08:10+00:00\n"
+"POT-Creation-Date: 2026-09-27 15:06+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -168,7 +168,7 @@ msgstr ""
 #: includes/class-zeko-shop-frontend.php:172
 #: includes/class-zeko-shop-frontend.php:343
 #: includes/class-zeko-shop-frontend.php:868 templates/mini-cart.php:17
-#: zeko-shop.php:141
+#: zeko-shop.php:142
 msgid "Cart"
 msgstr ""
 
@@ -186,7 +186,7 @@ msgid "Chat"
 msgstr ""
 
 #: includes/class-zeko-shop-frontend.php:176 templates/mini-cart.php:43
-#: templates/shop-checkout.php:46 zeko-shop.php:145
+#: templates/shop-checkout.php:46 zeko-shop.php:146
 msgid "Checkout"
 msgstr ""
 
@@ -357,7 +357,7 @@ msgstr ""
 #: includes/class-zeko-shop-emails.php:253
 #: includes/class-zeko-shop-emails.php:326
 #: includes/class-zeko-shop-frontend.php:347 templates/shop-orders.php:25
-#: zeko-shop.php:149
+#: zeko-shop.php:150
 msgid "My Orders"
 msgstr ""
 
@@ -711,7 +711,7 @@ msgstr ""
 
 #: includes/class-zeko-shop-frontend.php:334 includes/class-zeko-shop.php:132
 #: templates/shop-catalog.php:18 templates/shop-product.php:36
-#: zeko-shop.php:137
+#: zeko-shop.php:138
 msgid "Shop"
 msgstr ""
 
