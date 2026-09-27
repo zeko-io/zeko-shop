@@ -430,7 +430,9 @@ class Zeko_Shop_DB {
 			),
 			array( '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%d', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%s', '%s' )
 		);
-		return (int) $this->wpdb->insert_id;
+		$product_id = (int) $this->wpdb->insert_id;
+		do_action( 'zeko_shop_product_created', $product_id, (int) get_current_user_id(), $data );
+		return $product_id;
 	}
 
 	/**
